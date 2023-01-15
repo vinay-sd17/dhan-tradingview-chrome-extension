@@ -1,5 +1,11 @@
 # DhanHQ Tradingview Chrome Extension
 
+
+# Prerequisite:
+1. Dhan Account + API Token
+2. https://tv.dhan.co -> Order window should in "un docked mode", like below. If order window is docked, then extension might not work!
+   ![Alt text](images/tv-order-window.png?raw=true "Order Window")
+
 # Features:
 1. Global Extension Enabler/Disabler
 2. Default Order Type
