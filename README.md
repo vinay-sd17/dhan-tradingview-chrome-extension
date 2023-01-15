@@ -3,7 +3,8 @@
 
 # Prerequisite:
 1. Dhan Account + API Token
-2. https://tv.dhan.co -> Order window should in "un docked mode", like below. If order window is docked, then extension might not work!
+2. https://tv.dhan.co -> Order window should in "Un Docked mode", like below. If order window is "Docked to Right", then extension might not work! So Do not click "Dock to Right".
+   
    ![Alt text](images/tv-order-window.png?raw=true "Order Window")
 
 # Features:
